@@ -1,6 +1,8 @@
 # RAG Converter Bot
+
 ## Overview
 The RAG Converter Bot is a powerful tool designed to enhance the accuracy and relevance of information retrieval and generation using the Retrieval-Augmented Generation (RAG) framework. This bot helps users refine their input content to achieve better results by providing clear, structured, and contextually rich queries. Whether you're working with complex datasets or simply need precise information, the RAG Converter Bot optimizes your queries for maximum efficiency and effectiveness.
+
 
 ## Features
 **Advanced Query Refinement** : Automatically enhances user queries for improved accuracy and relevance in RAG systems.
@@ -12,6 +14,7 @@ The RAG Converter Bot is a powerful tool designed to enhance the accuracy and re
 **Ambiguity Reduction** : Minimizes misunderstandings by avoiding jargon and ensuring clarity in user queries.
 
 **Feedback Loop Integration**: Allows for continuous improvement of responses through user feedback and query refinement.
+
 
 ## How It Works
 The RAG Converter Bot operates by taking user input and refining it according to a set of guidelines designed to optimize queries for RAG systems. The bot ensures that queries are:
@@ -27,7 +30,7 @@ The RAG Converter Bot operates by taking user input and refining it according to
 **Refined** : Based on feedback, queries are continuously improved for better results.
 
 
-## Bot link** : https://poe.com/RAG_Convertor
+## Bot link : https://poe.com/RAG_Convertor
 
 
 ## Contribution
