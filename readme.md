@@ -30,7 +30,8 @@ The RAG Converter Bot operates by taking user input and refining it according to
 **Refined** : Based on feedback, queries are continuously improved for better results.
 
 
-## Bot link : https://poe.com/RAG_Convertor
+## Bot link 
+https://poe.com/RAG_Convertor
 
 
 ## Contribution
